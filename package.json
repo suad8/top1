@@ -1,1 +1,1 @@
-{"name":"kodplus","private":true,"type":"module","scripts":{"build":"node build.mjs","start":"node build.mjs && npx serve dist"}}
+{"name":"kodplus","private":true,"type":"module","scripts":{"build":"node build.mjs","check":"node build.mjs && node check.mjs","start":"node build.mjs && npx serve dist"}}
